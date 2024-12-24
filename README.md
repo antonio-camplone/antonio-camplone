@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=bash&logoColor=white" alt="Bash">
-      <img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
