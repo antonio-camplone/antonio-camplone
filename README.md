@@ -15,7 +15,6 @@
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
       <img src="https://img.shields.io/badge/AlmaLinux-2C5CC5?style=for-the-badge&logo=almalinux&logoColor=white" alt="AlmaLinux">
       <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux">
@@ -38,8 +37,11 @@
 
 
 [**AstralHost**](https://astralhost.cloud) - **C.E.O**
+<br>
 [**Mushroom Network**](https://mushroomnet.it) - **Admin**
+<br>
 [**DivinityMC**](https://divinitymc.it) - **Founder**
+<br>
 [**AstralMC**](https://astralmc.eu) - **Manager**
 <br>
 
