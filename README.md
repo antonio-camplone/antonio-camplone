@@ -38,7 +38,7 @@
 
 [**AstralHost**](https://astralhost.cloud) - **C.E.O**
 <br>
-[**Mushroom Network**](https://mushroomnet.it) - **Admin**
+[**XeroxNetwork**](https://xeroxnetwork.it) - **Manager**
 <br>
 [**DivinityMC**](https://divinitymc.it) - **Founder**
 <br>
