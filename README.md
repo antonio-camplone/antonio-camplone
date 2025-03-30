@@ -115,7 +115,7 @@
 
 [**AstralHost**](https://astralhost.cloud) - **Staff Team & Security Engineer**
 <br>
-[**XeroxNetwork**](https://xeroxnetwork.it) - **Sr.Admin & Security Engineer**
+[**Akaris Network**](https://akaris.it) - **Sr.Admin & Security Engineer**
 <br>
 [**VoidMC.it**](https://voidmc.it) - **Security Engineer**
 <br>
