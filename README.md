@@ -29,6 +29,16 @@
       <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
       <img src="https://img.shields.io/badge/Wazuh-00A6D6?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
       <img src="https://img.shields.io/badge/Suricata-1E1E1E?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata">
+      <img src="https://img.shields.io/badge/CasaOS-FF6600?style=for-the-badge&logo=casaos&logoColor=white" alt="CasaOS">
+      <img src="https://img.shields.io/badge/Jellyfin-DB2F3E?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+      <img src="https://img.shields.io/badge/Portainer-6B58E9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer">
+      <img src="https://img.shields.io/badge/Proxmox-8B8B8B?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox">
+      <img src="https://img.shields.io/badge/TenantOS-7D8CFF?style=for-the-badge&logo=tenantos&logoColor=white" alt="TenantOS">
+      <img src="https://img.shields.io/badge/Webmin-2E6C7D?style=for-the-badge&logo=webmin&logoColor=white" alt="Webmin">
+      <img src="https://img.shields.io/badge/Astro-FF5C00?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
     </a>
   </p>
 </hr>
@@ -36,7 +46,6 @@
 <hr>
   <h2> Where i work? </h2>
 </hr>
-
 
 [**AstralHost**](https://astralhost.cloud) - **Staff Team & Security Engineer**
 <br>
@@ -46,7 +55,6 @@
 <br>
 [**VoidMC.xyz**](https://voidmc.xyz) - **Manager & Security Engineer**
 <br>
-
 
 <hr>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-camplone&theme=gruvbox" alt="" /></p>
