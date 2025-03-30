@@ -27,6 +27,8 @@
       <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
       <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+      <img src="https://img.shields.io/badge/Wazuh-00A6D6?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
+      <img src="https://img.shields.io/badge/Suricata-1E1E1E?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata">
     </a>
   </p>
 </hr>
@@ -36,13 +38,13 @@
 </hr>
 
 
-[**AstralHost**](https://astralhost.cloud) - **C.E.O**
+[**AstralHost**](https://astralhost.cloud) - **Staff Team & Security Engineer**
 <br>
-[**XeroxNetwork**](https://xeroxnetwork.it) - **Manager**
+[**XeroxNetwork**](https://xeroxnetwork.it) - **Sr.Admin & Security Engineer**
 <br>
-[**DivinityMC**](https://divinitymc.it) - **Founder**
+[**VoidMC.it**](https://voidmc.it) - **Security Engineer**
 <br>
-[**AstralMC**](https://astralmc.eu) - **Manager**
+[**VoidMC.xyz**](https://voidmc.xyz) - **Manager & Security Engineer**
 <br>
 
 
