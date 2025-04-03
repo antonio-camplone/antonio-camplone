@@ -119,8 +119,6 @@
 <br>
 [**VoidMC.it**](https://voidmc.it) - **Security Engineer**
 <br>
-[**VoidMC.xyz**](https://voidmc.xyz) - **Manager & Security Engineer**
-<br>
 
 <hr>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-camplone&theme=gruvbox" alt="" /></p>
