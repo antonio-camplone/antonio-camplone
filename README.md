@@ -109,6 +109,10 @@
   </p>
 </hr>
 
+# Sponsors
+
+<img src="https://camo.githubusercontent.com/625beeaa767581210a70308eaadb55f2118f8035885e9d341da2686897d2ad54/68747470733a2f2f63646e322e737465616d6772696464622e636f6d2f6c6f676f2f38383530323634366232323933633461616131373362333361666364343066312e706e67" width="150" alt="Termius" data-canonical-src="https://cdn2.steamgriddb.com/logo/88502646b2293c4aaa173b33afcd40f1.png" style="max-width: 100%;">
+
 <hr>
   <h2> Where i work? </h2>
 </hr>
