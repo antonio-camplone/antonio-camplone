@@ -117,7 +117,7 @@
   <h2> Where i work? </h2>
 </hr>
 
-[**AstralHost**](https://astralhost.cloud) - **Staff Team & Security Engineer**
+[**AstralHost**](https://astralhost.cloud) - **CTO**
 <br>
 [**Akaris Network**](https://akaris.it) - **Manager & Security Engineer**
 <br>
