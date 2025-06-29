@@ -117,11 +117,9 @@
   <h2> Where i work? </h2>
 </hr>
 
-[**AstralHost**](https://astralhost.cloud) - **CTO**
+[**AstralHosting**](https://astralhosting.cloud) - **CTO**
 <br>
-[**Akaris Network**](https://akaris.it) - **Manager & Security Engineer**
-<br>
-[**VoidMC.it**](https://voidmc.it) - **Security Engineer**
+[**HeavenMC**](https://heavenmc.it) - **Sr. Developer**
 <br>
 
 <hr>
