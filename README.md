@@ -119,8 +119,6 @@
 
 [**AstralHosting**](https://astralhosting.cloud) - **CTO**
 <br>
-[**HeavenMC**](https://heavenmc.it) - **Sr. Developer**
-<br>
 
 <hr>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-camplone&theme=gruvbox" alt="" /></p>
