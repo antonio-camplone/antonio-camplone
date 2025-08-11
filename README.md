@@ -117,7 +117,7 @@
   <h2> Where i work? </h2>
 </hr>
 
-[**NexusHost**](https://astralhosting.cloud) - **CEO**
+[**NexusHost**](https://nexushost.cloud) - **CEO**
 <br>
 
 <hr>
